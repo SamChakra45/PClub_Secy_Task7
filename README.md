@@ -9,3 +9,13 @@ Upon training using kaggle, the model achieved an accuracy of 71.26 percent afte
 The generation of a clickbait using the model requires the provision of a seed text and the number of words, which if not provided results in a random number between 5 and 15 being selected as the word count. I have provided the API to call the model and also to test the model. The API could not be perfected as a website (mostly due to my own inexperience of web development) and hence, the model remains open to modifications and betterment. A sample API request is also included to help understand the procedure and parameters required for the call.
 
 I plan on including the resources that I used for development at a later time which were a great help to me
+
+Some sample outputs and their respective prompts are:
+world's most simple clothing line ideas to get you through the cold
+"world's most" ; 10
+heavy porn stars teach couples secret news katy claiming
+"heavy porn" ; 7
+man masturbates dies after being sucked into plane engine at mumbai airport
+"man masturbates" ; 10
+animal rights abrams broke his back trying to invent fake advice after long beers
+"animal rights" ; 12
