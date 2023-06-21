@@ -11,11 +11,15 @@ The generation of a clickbait using the model requires the provision of a seed t
 I plan on including the resources that I used for development at a later time which were a great help to me
 
 Some sample outputs and their respective prompts are:
+
 world's most simple clothing line ideas to get you through the cold
 "world's most" ; 10
+
 heavy porn stars teach couples secret news katy claiming
 "heavy porn" ; 7
+
 man masturbates dies after being sucked into plane engine at mumbai airport
 "man masturbates" ; 10
+
 animal rights abrams broke his back trying to invent fake advice after long beers
 "animal rights" ; 12
