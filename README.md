@@ -15,11 +15,5 @@ Some sample outputs and their respective prompts are:
 world's most simple clothing line ideas to get you through the cold
 "world's most" ; 10
 
-heavy porn stars teach couples secret news katy claiming
-"heavy porn" ; 7
-
-man masturbates dies after being sucked into plane engine at mumbai airport
-"man masturbates" ; 10
-
 animal rights abrams broke his back trying to invent fake advice after long beers
 "animal rights" ; 12
