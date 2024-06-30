@@ -1,4 +1,4 @@
-# PClub_Secy_Task7
+# ClickBait Generation and Detection
 Clickbait Generation using LSTM Tensorflow
 For this given problem, I have used a tensorflow LSTM model to generate text that closely resembles clickbaits from the training data provided
 
